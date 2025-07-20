@@ -22,10 +22,10 @@ It uses:
 ## 📸 Screenshots
 
 ### 👉 Upload PDFs
-![Upload PDFs](<img width="1920" height="677" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/f7089ddc-2111-44e3-8b70-1bb78490c153" />)
+(<img width="1920" height="677" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/f7089ddc-2111-44e3-8b70-1bb78490c153" />)
 
 ### 👉 Ask Questions
-![Ask Questions](<img width="1920" height="813" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/1933ccd4-0973-4b2d-8212-ca383b9d0075" />
+(<img width="1920" height="813" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/1933ccd4-0973-4b2d-8212-ca383b9d0075" />
 
 <img width="1920" height="823" alt="Screenshot (371)" src="https://github.com/user-attachments/assets/d82d9d7e-b46e-4b37-a0a1-4c2586da7eed" />
 )
